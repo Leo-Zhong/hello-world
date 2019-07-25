@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+hi humans 
+
+I'm a student, like Java
